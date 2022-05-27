@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as o,createElementVNode as t}from"vue";import{_ as s}from"./index.37ed6b6d.js";import"./vendor.ae3ad53d.js";const n={},r={class:"about"},a=t("h1",null,"This is an about pagea",-1),c=[a];function _(d,i){return e(),o("div",r,c)}var f=s(n,[["render",_]]);export{f as default};
