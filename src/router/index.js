@@ -4,12 +4,12 @@ import Jewelry from "@/views/Jewelry.vue";
 
 const routes = [
   {
-    path: "/summary-vue",
+    path: "/",
     name: "Home",
     component: Home,
   },
   {
-    path: "/summary-vue/about",
+    path: "/about",
     name: "About",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -18,7 +18,7 @@ const routes = [
       import(/* webpackChunkName: "about" */ "@/views/About.vue"),
   },
   {
-    path: "/summary-vue/jewelry",
+    path: "/jewelry",
     name: "Jewelry",
     component: Jewelry
   },
