@@ -4,7 +4,7 @@ import Jewelry from "@/views/Jewelry.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/summary-vue",
     name: "Home",
     component: Home,
   },
