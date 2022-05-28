@@ -279,9 +279,9 @@ export default {
   data() {
     return {
 		imgSlide: [
-			"../images/jewelry/banner.jpg",
-			"../images/jewelry/banner.jpg",
-			"../images/jewelry/banner.jpg"
+			"images/jewelry/banner.jpg",
+			"images/jewelry/banner.jpg",
+			"images/jewelry/banner.jpg"
 		],
 		swiperOptions: {
           breakpoints: {
@@ -382,49 +382,49 @@ export default {
 		],
 		ListJewelry: [
         {
-          img: "../images/jewelry/IMG1.jpg",
+          img: "images/jewelry/IMG1.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG2.jpg",
+          img: "images/jewelry/IMG2.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG3.jpg",
+          img: "images/jewelry/IMG3.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG4.jpg",
+          img: "images/jewelry/IMG4.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG1.jpg",
+          img: "images/jewelry/IMG1.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG2.jpg",
+          img: "images/jewelry/IMG2.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG3.jpg",
+          img: "images/jewelry/IMG3.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
 		{
-          img: "../images/jewelry/IMG4.jpg",
+          img: "images/jewelry/IMG4.jpg",
           id_product: "NC1697",
           name: "Nhẫn đá màu"
         },
       ],
 	  ListNews:[
 		{
-			img: "../images/jewelry/Hinh1.jpg",
+			img: "images/jewelry/Hinh1.jpg",
 		  	title: "Giá vàng hôm nay 29/6: 'Leo dốc' sáng đầu tuần, dự báo tiếp tục tăng bứt phá",
 			desc: "Mở cửa phiên giao dịch sáng nay (29/6 theo giờ địa phương), giá vàng thế giới giao ngay ở mức 1.773,14 USD/Ounce. So với chốt phiên cuối tuần, vàng bật tăng khoảng 2 USD/Ounce, hiện đang phá đỉnh 8 năm.",
 			date: "Ngày 29/06/2020 09:18 AM",
@@ -432,7 +432,7 @@ export default {
 			IsNew: true
 		},
 		{
-			img: "../images/jewelry/Hinh2.jpg",
+			img: "images/jewelry/Hinh2.jpg",
 		  	title: "Giá vàng có thể vọt lên 55 triệu đồng/lượng, đầu tư vàng dài hạn ăn chắc lãi",
 			desc: "Nhận định giá vàng có khả năng tăng lên mức 55 triệu đồng/lượng. Đã đầu tư phải bỏ tiền vào vàng ít nhất 6 tháng đến 1 năm thì giá vàng khó có thể xuống được.",
 			date: "Ngày 29/06/2020 09:18 AM",
@@ -440,7 +440,7 @@ export default {
 			IsNew: false
 		},
 		{
-			img: "../images/jewelry/Hinh3.jpg",
+			img: "images/jewelry/Hinh3.jpg",
 		  	title: "Giá vàng hôm nay 25/6: Lao dốc sau phiên tăng sốc, nhà đầu tư hoảng loạn",
 			desc: "Sáng nay giá vàng thế giới hạ nhiệt so với hôm nay nhưng vẫn duy trì ở đỉnh 7 năm.",
 			date: "Ngày 29/06/2020 09:18 AM",
@@ -448,7 +448,7 @@ export default {
 			IsNew: false
 		},
 		{
-			img: "../images/jewelry/Hinh4.jpg",
+			img: "images/jewelry/Hinh4.jpg",
 		  	title: "Giá vàng hôm nay 16/6: Bất ngờ quay đầu tăng mạnh khi Trung Quốc lo sợ ổ dịch mới",
 			desc: "Sau khi quay đầu giảm trong phiên giao dịch ngày hôm qua, sáng nay 16/6 giá vàng bật tăng trở lại.",
 			date: "Ngày 29/06/2020 09:18 AM",
@@ -458,15 +458,15 @@ export default {
 	  ],
 	  ListBanner:[
 		{
-			img: "../images/jewelry/banner1.jpg",
+			img: "images/jewelry/banner1.jpg",
 			link: "#"
 		},
 		{
-			img: "../images/jewelry/banner1.jpg",
+			img: "images/jewelry/banner1.jpg",
 			link: "#sec1"
 		},
 		{
-			img: "../images/jewelry/banner1.jpg",
+			img: "images/jewelry/banner1.jpg",
 			link: "#sec2"
 		}
 	  ]
